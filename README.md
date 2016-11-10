@@ -61,3 +61,5 @@
 ![](https://github.com/Mustted/LAB-03/blob/master/LAB3.png?raw=true)
 
 ![](https://github.com/Mustted/LAB-03/blob/master/Lab3_1.png?raw=true)
+
+##นายบุญฤทธิ์  หอมรื่น รหัสนักศึกษา 57030185
