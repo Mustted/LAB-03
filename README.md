@@ -53,3 +53,11 @@
 
 ##คำถาม 
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+
+ตอบ. ควรระวังสำหรับการแก้โค๊ดจากการทดลองที่ 2 เนื่องจากต้องคงค่า return DefWindowProc(hwnd, message, wParam, lParam); จากใบงานที่ 2 ไว้ มิเช่นนั้นระบบจะค้างเมื่อกดรัน
+
+##ผลการทดลอง
+
+![](https://github.com/Mustted/LAB-03/blob/master/LAB3.png?raw=true)
+
+![](https://github.com/Mustted/LAB-03/blob/master/Lab3_1.png?raw=true)
